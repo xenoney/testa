@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Kleee v2</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<link type="text/css" rel="stylesheet" href="style.css">
+
+	<!-- Libraries -->
+	<script src="https://unpkg.com/three@0.130.1/build/three.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/effects/OutlineEffect.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/postprocessing/EffectComposer.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/shaders/CopyShader.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/shaders/SSRShader.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/postprocessing/ShaderPass.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/postprocessing/SSRPass.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/objects/ReflectorForSSRPass.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/objects/Reflector.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/loaders/MMDLoader.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/shaders/MMDToonShader.js"></script>
+	<!-- <script src="https://unpkg.com/three@0.130.1/examples/js/loaders/TGALoader.js"></script> -->
+	<script src="https://unpkg.com/three@0.130.1/examples/js/animation/MMDAnimationHelper.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/animation/MMDPhysics.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/animation/CCDIKSolver.js"></script>
+	<script src="https://unpkg.com/three@0.130.1/examples/js/libs/ammo.wasm.js"></script>
+	<script src="./js/libs/mmdparser.min.js"></script>
+
+	<script type="module" src="js/script-pico.js"></script>
+
+	<style>
+		a {
+			color: #08f;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="overlay">
+		<button id="startButton">Play</button>
+		<div id="loadingContainer" class="none">
+			<div>Loading ... <span id="progressText">0</span>%</div>
+			<div id="progressBarContainer">
+				<div id="progressBar"></div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<button id="creditButton">i</button>
+	</div>
+	<div id="info">
+		Credit #TODO
+	</div>
+</body>
+</html>

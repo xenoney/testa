@@ -1,0 +1,67 @@
+◆Re-distribution: NOT allowed.
+  不允许二次配布
+◆Commercial use: NOT allowed.
+  不允许商业用途使用
+◆Credit me，Action reference  “Pico Pico Tokyo”. 
+  动作数据为本人原创，动作参考为“ぴこぴこ東京”
+
+Notice: The action is not applicable for isometric model, only for chibi version model
+注意:本动作不适用于等身模型，只适用于Q版
+============================================================
+Distribution address: Bilibili, Niconico, Youtube
+配布地址：Bilibili， Niconico, Youtube
+
+The distribution of other web sites is completely unauthorized.
+其他网址的配布全未经授权。
+============================================================
+
+■关于动作修正■
+第一，于本动作有很多的踢腿动作，所以很多模型会因为数据兼容性的问题导致脚踝扭曲。请将变形的“足ＩＫ”的旋转轴全部数据归零，调整它的旋转“Y”轴。
+
+第二,这个数据里面的动作我有用到“IK親”“肩P”“捩骨”“D骨”，如果你的模型没有这些次标准骨，那么请在PE里面用插件加入骨骼，不然无法使用。
+
+※这个动作幅度很大，速度很快，使用多物理的衣着必定会出现穿模现象，请自行通过各种办法避免这种问题的发生。
+
+■Motion correction ■
+	First, there are a lot of kicks in this motion, so many models will distort the ankle due to data compatibility issues. Please zero all the rotation data of the deformed "足ＩＫ" and adjust its rotation "Y" axis.
+
+	Secondly,  I use the"IK親"bones the"肩P"bones"捩骨"bones and the"D足" bones to make this motion. If your model does not have these two kinds of  bones, then use the plug-in to add bones in PE, otherwise it will not work.
+
+※ If the model wears a fluffy clothes, the model penetration will surely appear in the motion. Please use various methods to avoid such problems.
+
+
+■注意事项■
+禁止R18模型使用此动作数据。
+禁止此动作数据制成的视频封面过于成人。
+
+■ Precautions ■
+	First, the R18 model is prohibited from using this motion.
+	Secondly, the video cover made out of pornography is prohibited from using this motion. 
+
+
+动作制作者：小怪兽粉刷月球
+B站：https://space.bilibili.com/95853308
+N站：72313540
+邮箱：63931335@qq.com
+
+
+镜头制作者：小怪兽粉刷月球
+B站：https://space.bilibili.com/310726
+
+
+
+Motion Producer: 小怪兽粉刷月球
+Bilibili: https://space.bilibili.com/95853308
+Niconico : 72313540
+E-mail: 63931335@qq.com
+
+
+Camera Producer: 小怪兽粉刷月球
+Bilibili: https://space.bilibili.com/310726
+
+
+
+
+
+                                            2020.04.30
+
